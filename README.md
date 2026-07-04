@@ -11,3 +11,6 @@
 - ## 📫 Connect with Me
 - 📧 Email: mukesh.ydv.012003@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mukesh-yadav01](https://linkedin.com/in/mukesh-yadav01)
+
+- ## 🛠️ Skills
+`C++` `Python` `HTML` `CSS` `Git & GitHub`
