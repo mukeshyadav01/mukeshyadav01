@@ -7,3 +7,7 @@
 
 ## 📌 Featured Repository
 - **[DSA-Practice](https://github.com/mukeshyadav01/DSA-Practice)** – Array, loop, pattern, and DSA programs in C++ with explanations
+
+- ## 📫 Connect with Me
+- 📧 Email: mukesh.ydv.012003@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/mukesh-yadav01](https://linkedin.com/in/mukesh-yadav01)
